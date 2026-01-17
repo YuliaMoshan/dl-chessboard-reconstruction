@@ -1,0 +1,3 @@
+game_id,frame_id,fen_1,fen_2,csv_path
+game5_per_frame,34668,3r4/P7/8/1B3p2/8/5KP1/1kR5/8,3r4/P7/8/1B3p2/8/5KP1/2k5/8,/home/yuliamo/Projects/DeepLearning/data/csv_games/game5_per_frame/game5.csv
+game7_per_frame,29020,r1r3k1/2q2p1p/b3p1p1/p3P3/BP1P2PB/5p1Q/P6P/R5K1,r1r3k1/2q2p1p/b3pBp1/p3P3/BP1P2P1/5p1Q/P6P/R5K1,/home/yuliamo/Projects/DeepLearning/data/csv_games/game7_per_frame/game7.csv

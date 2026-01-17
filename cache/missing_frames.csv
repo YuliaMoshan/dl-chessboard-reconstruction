@@ -1,0 +1,5 @@
+game_id,frame_id,expected_img_path,csv_path
+game4_per_frame,27627,/home/yuliamo/Projects/DeepLearning/data/csv_games/game4_per_frame/tagged_images/frame_027627.jpg,/home/yuliamo/Projects/DeepLearning/data/csv_games/game4_per_frame/game4.csv
+game4_per_frame,35238,/home/yuliamo/Projects/DeepLearning/data/csv_games/game4_per_frame/tagged_images/frame_035238.jpg,/home/yuliamo/Projects/DeepLearning/data/csv_games/game4_per_frame/game4.csv
+game6_per_frame,22566,/home/yuliamo/Projects/DeepLearning/data/csv_games/game6_per_frame/tagged_images/frame_022566.jpg,/home/yuliamo/Projects/DeepLearning/data/csv_games/game6_per_frame/game6.csv
+game7_per_frame,769,/home/yuliamo/Projects/DeepLearning/data/csv_games/game7_per_frame/tagged_images/frame_000769.jpg,/home/yuliamo/Projects/DeepLearning/data/csv_games/game7_per_frame/game7.csv
