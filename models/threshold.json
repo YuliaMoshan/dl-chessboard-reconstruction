@@ -1,0 +1,7 @@
+{
+  "threshold": 0.5,
+  "policy": {
+    "maximize": "board_exact_match",
+    "constraint": "mean_x_per_board <= 3.0"
+  }
+}
