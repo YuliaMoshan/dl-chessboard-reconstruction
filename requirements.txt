@@ -1,0 +1,8 @@
+# Core deps for scripts (torch/torchvision/torchaudio installed separately for CUDA)
+pandas
+numpy
+Pillow
+tqdm
+matplotlib
+python-chess
+cairosvg
