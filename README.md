@@ -101,7 +101,7 @@ is required to reproduce dataset splits and evaluation behavior.
 ## Google Drive Assets (Required for Full Reproducibility)
 
 Due to size constraints and course submission requirements, the following assets
-are provided via Google Drive folder (download link: https://drive.google.com/drive/folders/1_AFMoLJzQv0eyh9LgRB8R3Qkxyfk_eRk?usp=sharing)
+are provided via Google Drive folder (download link: https://drive.google.com/drive/folders/1XLMoMV28LYO9LhEMKKLDucX0Cw5hRc-Y?usp=sharing)
 
 ### 1. Raw Dataset (Original Format)
 
